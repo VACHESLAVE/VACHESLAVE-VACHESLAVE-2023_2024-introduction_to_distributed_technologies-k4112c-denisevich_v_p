@@ -68,9 +68,9 @@ http://localhost:8200/ui/vault/dashboard
 $ minikube kubectl logs vault
 ```
 
-![image](https://raw.githubusercontent.com/VACHESLAVE/2023_2024-introduction_to_distributed_technologies-k4112c-denisevich_v_p/refs/heads/main/lab1/images/result_lab_1.jpg)
+![image](https://github.com/VACHESLAVE/VACHESLAVE-VACHESLAVE-2023_2024-introduction_to_distributed_technologies-k4112c-denisevich_v_p/blob/main/lab1/images/result_lab_1.jpg)
 
-![image](https://raw.githubusercontent.com/VACHESLAVE/2023_2024-introduction_to_distributed_technologies-k4112c-denisevich_v_p/refs/heads/main/lab1/images/lab1.drawio.jpg)
+![image](https://github.com/VACHESLAVE/VACHESLAVE-VACHESLAVE-2023_2024-introduction_to_distributed_technologies-k4112c-denisevich_v_p/blob/main/lab1/images/lab1.drawio.jpg)
 
 
 
