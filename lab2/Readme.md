@@ -120,7 +120,7 @@ Browserslist: caniuse-lite is outdated. Please run:
 build finished
 Server started on port 3000
 ```
-![image](https://github.com/VACHESLAVE/2023_2024-introduction_to_distributed_technologies-k4112c-denisevich_v_p/blob/main/lab2/images/result_lab_2.jpg)
+![image](https://github.com/VACHESLAVE/VACHESLAVE-VACHESLAVE-2023_2024-introduction_to_distributed_technologies-k4112c-denisevich_v_p/blob/main/lab2/images/result_lab_2.jpg)
 
-![image](https://github.com/VACHESLAVE/2023_2024-introduction_to_distributed_technologies-k4112c-denisevich_v_p/blob/main/lab2/images/lab2.drawio.jpg)
+![image](https://github.com/VACHESLAVE/VACHESLAVE-VACHESLAVE-2023_2024-introduction_to_distributed_technologies-k4112c-denisevich_v_p/blob/main/lab2/images/lab2.drawio.jpg)
 
