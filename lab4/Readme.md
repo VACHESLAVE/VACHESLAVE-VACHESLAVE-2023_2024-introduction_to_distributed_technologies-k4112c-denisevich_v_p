@@ -28,7 +28,7 @@ $ minikube start --network-plugin=cni --cni=calico --nodes 2 -p multinode-demo
 kubectl get pods -l k8s-app=calico-node -A
 kubectl get nodes
 ```
-![image]()
+![image](https://github.com/VACHESLAVE/VACHESLAVE-VACHESLAVE-2023_2024-introduction_to_distributed_technologies-k4112c-denisevich_v_p/blob/main/lab4/image/1.jpg)
 
 
 **3. Пометка нод** 
@@ -39,7 +39,7 @@ kubectl get nodes
 $ kubectl label nodes multinode-demo-m02 rack=1 --overwrite=true
 $ kubectl label nodes multinode-demo rack=0 --overwrite=true
 ```
-![image]()
+![image](https://github.com/VACHESLAVE/VACHESLAVE-VACHESLAVE-2023_2024-introduction_to_distributed_technologies-k4112c-denisevich_v_p/blob/main/lab4/image/2.jpg)
 
 
 **4. Манифест для Calico**
@@ -72,7 +72,7 @@ spec:
 ```
 $ curl.exe -O https://raw.githubusercontent.com/projectcalico/calico/v3.26.1/manifests/calico.yaml
 ```
-![image]()
+![image](https://github.com/VACHESLAVE/VACHESLAVE-VACHESLAVE-2023_2024-introduction_to_distributed_technologies-k4112c-denisevich_v_p/blob/main/lab4/image/3.jpg)
 
 **6. Создание deployment**
 ```
@@ -132,9 +132,9 @@ $ kubectl apply -f service.yaml
 localhost:3000
 ```
 
-![image]()
+![image](https://github.com/VACHESLAVE/VACHESLAVE-VACHESLAVE-2023_2024-introduction_to_distributed_technologies-k4112c-denisevich_v_p/blob/main/lab4/image/4.jpg)
 
-![image]()
+![image](https://github.com/VACHESLAVE/VACHESLAVE-VACHESLAVE-2023_2024-introduction_to_distributed_technologies-k4112c-denisevich_v_p/blob/main/lab4/image/5.jpg)
 
 
 **10. Узнать информацию о FQDN имена подов**
@@ -159,7 +159,7 @@ Address:        10.96.0.10:53
 195.113.244.10.in-addr.arpa     name = 10-244-113-195.service-lab4.default.svc.cluster.local
 ```
 
-![image]()
+![image](https://github.com/VACHESLAVE/VACHESLAVE-VACHESLAVE-2023_2024-introduction_to_distributed_technologies-k4112c-denisevich_v_p/blob/main/lab4/image/6.jpg)
 
 
 **11. Пинг подов**
@@ -190,8 +190,8 @@ PING 10-244-239-2.service-lab4.default.svc.cluster.local (10.244.239.2): 56 data
 64 bytes from 10.244.239.2: seq=8 ttl=62 time=0.280 ms
 64 bytes from 10.244.239.2: seq=9 ttl=62 time=0.399 ms
 ```
-![image]()
+![image](https://github.com/VACHESLAVE/VACHESLAVE-VACHESLAVE-2023_2024-introduction_to_distributed_technologies-k4112c-denisevich_v_p/blob/main/lab4/image/7.jpg)
 
-![image]()
+![image](https://github.com/VACHESLAVE/VACHESLAVE-VACHESLAVE-2023_2024-introduction_to_distributed_technologies-k4112c-denisevich_v_p/blob/main/lab4/image/8.jpg)
 
-![image]()
+![image](https://github.com/VACHESLAVE/VACHESLAVE-VACHESLAVE-2023_2024-introduction_to_distributed_technologies-k4112c-denisevich_v_p/blob/main/lab4/image/9.jpg)
